@@ -1,0 +1,8 @@
+
+
+
+## Get
+GET https://localhost:5001/Booking
+
+## Get
+//PUT https://localhost:5001/Booking/1

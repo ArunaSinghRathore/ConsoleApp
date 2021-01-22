@@ -34,6 +34,6 @@ namespace TodoApi
        
         Afternoon,
 
-        Eveningg
+        Evening
     }
 }
